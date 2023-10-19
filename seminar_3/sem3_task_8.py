@@ -40,3 +40,19 @@ for key in data:
             res = res.difference(set(data[k]))
     if res:
         print(f'Только {key} имеет {res}')
+
+# Какие вещи есть у всех друзей кроме одного и имя того, у кого данная
+# вещь отсутствует
+
+for key in data:
+    res = set(data[key])
+    new_set = set()
+    for k in data:
+        if key != k:
+            new_set = new_set.intersection(set(data[k])) if new_set else set(
+                data[k])
+
+    if new_set:
+        d = new_set.difference(res)
+        if d:
+            print(f'Только {key} не имеет {d}')

@@ -1,0 +1,1658 @@
+[
+    {
+        "name": "auto_python_gb",
+        "type": "directory",
+        "size": 184102,
+        "parent_directory": "D:/deep_python"
+    },
+    {
+        "name": ".gitignore",
+        "type": "file",
+        "size": 3238,
+        "parent_directory": "D:/deep_python/auto_python_gb"
+    },
+    {
+        "name": "README.md",
+        "type": "file",
+        "size": 18,
+        "parent_directory": "D:/deep_python/auto_python_gb"
+    },
+    {
+        "name": ".git",
+        "type": "directory",
+        "size": 89012,
+        "parent_directory": "D:/deep_python/auto_python_gb"
+    },
+    {
+        "name": "COMMIT_EDITMSG",
+        "type": "file",
+        "size": 17,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git"
+    },
+    {
+        "name": "config",
+        "type": "file",
+        "size": 309,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git"
+    },
+    {
+        "name": "description",
+        "type": "file",
+        "size": 73,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git"
+    },
+    {
+        "name": "FETCH_HEAD",
+        "type": "file",
+        "size": 106,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git"
+    },
+    {
+        "name": "HEAD",
+        "type": "file",
+        "size": 21,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git"
+    },
+    {
+        "name": "index",
+        "type": "file",
+        "size": 5158,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git"
+    },
+    {
+        "name": "ORIG_HEAD",
+        "type": "file",
+        "size": 41,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git"
+    },
+    {
+        "name": "packed-refs",
+        "type": "file",
+        "size": 112,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git"
+    },
+    {
+        "name": "hooks",
+        "type": "directory",
+        "size": 25821,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git"
+    },
+    {
+        "name": "applypatch-msg.sample",
+        "type": "file",
+        "size": 478,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\hooks"
+    },
+    {
+        "name": "commit-msg.sample",
+        "type": "file",
+        "size": 896,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\hooks"
+    },
+    {
+        "name": "fsmonitor-watchman.sample",
+        "type": "file",
+        "size": 4726,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\hooks"
+    },
+    {
+        "name": "post-update.sample",
+        "type": "file",
+        "size": 189,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\hooks"
+    },
+    {
+        "name": "pre-applypatch.sample",
+        "type": "file",
+        "size": 424,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\hooks"
+    },
+    {
+        "name": "pre-commit.sample",
+        "type": "file",
+        "size": 1643,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\hooks"
+    },
+    {
+        "name": "pre-merge-commit.sample",
+        "type": "file",
+        "size": 416,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\hooks"
+    },
+    {
+        "name": "pre-push.sample",
+        "type": "file",
+        "size": 1374,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\hooks"
+    },
+    {
+        "name": "pre-rebase.sample",
+        "type": "file",
+        "size": 4898,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\hooks"
+    },
+    {
+        "name": "pre-receive.sample",
+        "type": "file",
+        "size": 544,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\hooks"
+    },
+    {
+        "name": "prepare-commit-msg.sample",
+        "type": "file",
+        "size": 1492,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\hooks"
+    },
+    {
+        "name": "push-to-checkout.sample",
+        "type": "file",
+        "size": 2783,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\hooks"
+    },
+    {
+        "name": "sendemail-validate.sample",
+        "type": "file",
+        "size": 2308,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\hooks"
+    },
+    {
+        "name": "update.sample",
+        "type": "file",
+        "size": 3650,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\hooks"
+    },
+    {
+        "name": "info",
+        "type": "directory",
+        "size": 240,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git"
+    },
+    {
+        "name": "exclude",
+        "type": "file",
+        "size": 240,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\info"
+    },
+    {
+        "name": "logs",
+        "type": "directory",
+        "size": 14770,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git"
+    },
+    {
+        "name": "HEAD",
+        "type": "file",
+        "size": 11319,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\logs"
+    },
+    {
+        "name": "refs",
+        "type": "directory",
+        "size": 3451,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\logs"
+    },
+    {
+        "name": "heads",
+        "type": "directory",
+        "size": 2543,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\logs\\refs"
+    },
+    {
+        "name": "hw_8",
+        "type": "file",
+        "size": 161,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\logs\\refs\\heads"
+    },
+    {
+        "name": "main",
+        "type": "file",
+        "size": 2382,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\logs\\refs\\heads"
+    },
+    {
+        "name": "remotes",
+        "type": "directory",
+        "size": 908,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\logs\\refs"
+    },
+    {
+        "name": "origin",
+        "type": "directory",
+        "size": 908,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\logs\\refs\\remotes"
+    },
+    {
+        "name": "HEAD",
+        "type": "file",
+        "size": 198,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\logs\\refs\\remotes\\origin"
+    },
+    {
+        "name": "main",
+        "type": "file",
+        "size": 710,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\logs\\refs\\remotes\\origin"
+    },
+    {
+        "name": "objects",
+        "type": "directory",
+        "size": 42191,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git"
+    },
+    {
+        "name": "04",
+        "type": "directory",
+        "size": 1079,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects"
+    },
+    {
+        "name": "06787ed479d330a4149e6d3402a78d97b8a662",
+        "type": "file",
+        "size": 597,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects\\04"
+    },
+    {
+        "name": "3fb87b3a8f20e9a9e89f93e1c963e80c985dc2",
+        "type": "file",
+        "size": 482,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects\\04"
+    },
+    {
+        "name": "05",
+        "type": "directory",
+        "size": 374,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects"
+    },
+    {
+        "name": "a6906e62fe2090c4b48ebd940cf4121473c601",
+        "type": "file",
+        "size": 374,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects\\05"
+    },
+    {
+        "name": "07",
+        "type": "directory",
+        "size": 198,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects"
+    },
+    {
+        "name": "bffa9b1031d560d93f6035b52b7572e67c3567",
+        "type": "file",
+        "size": 198,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects\\07"
+    },
+    {
+        "name": "08",
+        "type": "directory",
+        "size": 665,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects"
+    },
+    {
+        "name": "17ac1da3bbf544bdf4324bab8794b5df1f2b16",
+        "type": "file",
+        "size": 665,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects\\08"
+    },
+    {
+        "name": "0c",
+        "type": "directory",
+        "size": 348,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects"
+    },
+    {
+        "name": "41177e437a1496854c337c9716c7e1172116bc",
+        "type": "file",
+        "size": 174,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects\\0c"
+    },
+    {
+        "name": "80d21b695e7f38fa5bef4dae83d677d177a3d4",
+        "type": "file",
+        "size": 174,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects\\0c"
+    },
+    {
+        "name": "0f",
+        "type": "directory",
+        "size": 570,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects"
+    },
+    {
+        "name": "33872c1dd231d985b1520cd70fff1a41383cee",
+        "type": "file",
+        "size": 171,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects\\0f"
+    },
+    {
+        "name": "b68b9d419ed0e2fb0ec0f5904334302b2aa5f0",
+        "type": "file",
+        "size": 399,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects\\0f"
+    },
+    {
+        "name": "11",
+        "type": "directory",
+        "size": 921,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects"
+    },
+    {
+        "name": "513b82bca4514779d75ad7c9f0f01aff45b1b5",
+        "type": "file",
+        "size": 921,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects\\11"
+    },
+    {
+        "name": "17",
+        "type": "directory",
+        "size": 202,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects"
+    },
+    {
+        "name": "6059710b175b55b0b6f55ae36ef9ae0b05b98a",
+        "type": "file",
+        "size": 202,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects\\17"
+    },
+    {
+        "name": "1f",
+        "type": "directory",
+        "size": 123,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects"
+    },
+    {
+        "name": "69079bbdfeab59e8ee63a4624f7e30b737e61b",
+        "type": "file",
+        "size": 123,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects\\1f"
+    },
+    {
+        "name": "24",
+        "type": "directory",
+        "size": 877,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects"
+    },
+    {
+        "name": "edb3386ec0e948f339ab4d0db3adf507f97275",
+        "type": "file",
+        "size": 877,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects\\24"
+    },
+    {
+        "name": "26",
+        "type": "directory",
+        "size": 814,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects"
+    },
+    {
+        "name": "bb3ce061b234f99fb112969ac9279980e59398",
+        "type": "file",
+        "size": 814,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects\\26"
+    },
+    {
+        "name": "2b",
+        "type": "directory",
+        "size": 170,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects"
+    },
+    {
+        "name": "291e1f145430407e649fa06d2abb3c7a67baff",
+        "type": "file",
+        "size": 170,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects\\2b"
+    },
+    {
+        "name": "2c",
+        "type": "directory",
+        "size": 215,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects"
+    },
+    {
+        "name": "991aa595f8fbee6c5f46c9c8ba3708adc458dc",
+        "type": "file",
+        "size": 215,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects\\2c"
+    },
+    {
+        "name": "30",
+        "type": "directory",
+        "size": 351,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects"
+    },
+    {
+        "name": "6b1fc4a4dfcaeab9aac0bd8c89442717fb14f8",
+        "type": "file",
+        "size": 351,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects\\30"
+    },
+    {
+        "name": "38",
+        "type": "directory",
+        "size": 387,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects"
+    },
+    {
+        "name": "65817c6146b372d927ea560acb41fbb3129513",
+        "type": "file",
+        "size": 111,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects\\38"
+    },
+    {
+        "name": "c831ce3032fa9c315bd96c4564c0d846e0c15e",
+        "type": "file",
+        "size": 276,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects\\38"
+    },
+    {
+        "name": "3e",
+        "type": "directory",
+        "size": 252,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects"
+    },
+    {
+        "name": "d88b5fbb7c54b13d48c5fbdfe28dcaaf442398",
+        "type": "file",
+        "size": 252,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects\\3e"
+    },
+    {
+        "name": "41",
+        "type": "directory",
+        "size": 784,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects"
+    },
+    {
+        "name": "1b64245b1122b536b67a6b4cfb80b8860edfa2",
+        "type": "file",
+        "size": 217,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects\\41"
+    },
+    {
+        "name": "8773f2d76fe93790cdad852f224734948efa7c",
+        "type": "file",
+        "size": 567,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects\\41"
+    },
+    {
+        "name": "48",
+        "type": "directory",
+        "size": 252,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects"
+    },
+    {
+        "name": "dbb051987ea59a4351aec5f3a7108fa076220c",
+        "type": "file",
+        "size": 252,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects\\48"
+    },
+    {
+        "name": "49",
+        "type": "directory",
+        "size": 636,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects"
+    },
+    {
+        "name": "0eaa4220656b9d56e15b68cac1439848b82570",
+        "type": "file",
+        "size": 636,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects\\49"
+    },
+    {
+        "name": "4b",
+        "type": "directory",
+        "size": 151,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects"
+    },
+    {
+        "name": "49b3ec708ca4bcdc770e751f6885b0a5a221cd",
+        "type": "file",
+        "size": 151,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects\\4b"
+    },
+    {
+        "name": "4d",
+        "type": "directory",
+        "size": 325,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects"
+    },
+    {
+        "name": "c7925cfefb8994da524bee1c01aeb1404ea236",
+        "type": "file",
+        "size": 325,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects\\4d"
+    },
+    {
+        "name": "4f",
+        "type": "directory",
+        "size": 243,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects"
+    },
+    {
+        "name": "c6b2cfd643f217b1691b9940dd5cd88cdde430",
+        "type": "file",
+        "size": 243,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects\\4f"
+    },
+    {
+        "name": "52",
+        "type": "directory",
+        "size": 302,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects"
+    },
+    {
+        "name": "cbe5a6297dd67c51970b7ee564b64a1bd45ef9",
+        "type": "file",
+        "size": 302,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects\\52"
+    },
+    {
+        "name": "53",
+        "type": "directory",
+        "size": 583,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects"
+    },
+    {
+        "name": "05562368ad847c249ae4dd81821cc0ba116165",
+        "type": "file",
+        "size": 583,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects\\53"
+    },
+    {
+        "name": "55",
+        "type": "directory",
+        "size": 199,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects"
+    },
+    {
+        "name": "93a24433e09307057b83c26ba5c43bf2204e68",
+        "type": "file",
+        "size": 199,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects\\55"
+    },
+    {
+        "name": "64",
+        "type": "directory",
+        "size": 569,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects"
+    },
+    {
+        "name": "331fa99e8662a3356c3d4aa682efa4df044ebe",
+        "type": "file",
+        "size": 382,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects\\64"
+    },
+    {
+        "name": "9e1df90c3ca52a5fd0f180638b5cb1ba59fa82",
+        "type": "file",
+        "size": 187,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects\\64"
+    },
+    {
+        "name": "66",
+        "type": "directory",
+        "size": 391,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects"
+    },
+    {
+        "name": "7c4bc7cf70daffd9158d4db76421ebe8025831",
+        "type": "file",
+        "size": 391,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects\\66"
+    },
+    {
+        "name": "6f",
+        "type": "directory",
+        "size": 938,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects"
+    },
+    {
+        "name": "12412b5cb29f2a50df7bb5a427931ce395d9b3",
+        "type": "file",
+        "size": 938,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects\\6f"
+    },
+    {
+        "name": "73",
+        "type": "directory",
+        "size": 164,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects"
+    },
+    {
+        "name": "33a7311032610340f184124cba86bf54722cd4",
+        "type": "file",
+        "size": 164,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects\\73"
+    },
+    {
+        "name": "77",
+        "type": "directory",
+        "size": 170,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects"
+    },
+    {
+        "name": "1d3a27efe69cb744d7a55cd83c86181cec0123",
+        "type": "file",
+        "size": 170,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects\\77"
+    },
+    {
+        "name": "78",
+        "type": "directory",
+        "size": 292,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects"
+    },
+    {
+        "name": "21f69991534c03cf431283ca06bd4a80cd13f1",
+        "type": "file",
+        "size": 207,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects\\78"
+    },
+    {
+        "name": "ebadb4e2e386d786034cfed9cfdc9ec8181cd9",
+        "type": "file",
+        "size": 85,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects\\78"
+    },
+    {
+        "name": "79",
+        "type": "directory",
+        "size": 1202,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects"
+    },
+    {
+        "name": "b041b7c0bc56c857174cc8cf0580217184735f",
+        "type": "file",
+        "size": 1202,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects\\79"
+    },
+    {
+        "name": "7c",
+        "type": "directory",
+        "size": 1788,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects"
+    },
+    {
+        "name": "44f2403683065e3bb6371f99ee7850c77c789e",
+        "type": "file",
+        "size": 1170,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects\\7c"
+    },
+    {
+        "name": "e5b3bcf02d75e11ec631a2935ddc36af2e3e7e",
+        "type": "file",
+        "size": 618,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects\\7c"
+    },
+    {
+        "name": "7f",
+        "type": "directory",
+        "size": 137,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects"
+    },
+    {
+        "name": "e490ad1d2c9a23a323ddb25456070826b13454",
+        "type": "file",
+        "size": 137,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects\\7f"
+    },
+    {
+        "name": "84",
+        "type": "directory",
+        "size": 328,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects"
+    },
+    {
+        "name": "6db23aed1f065f534cd2e6643ce1af18d12e1c",
+        "type": "file",
+        "size": 328,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects\\84"
+    },
+    {
+        "name": "8b",
+        "type": "directory",
+        "size": 760,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects"
+    },
+    {
+        "name": "137891791fe96927ad78e64b0aad7bded08bdc",
+        "type": "file",
+        "size": 16,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects\\8b"
+    },
+    {
+        "name": "fe728555cc49010519033df72f37942d6c1f55",
+        "type": "file",
+        "size": 744,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects\\8b"
+    },
+    {
+        "name": "8d",
+        "type": "directory",
+        "size": 378,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects"
+    },
+    {
+        "name": "0b11ba38ea5b7d7c7a36a9c60c14459423024b",
+        "type": "file",
+        "size": 378,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects\\8d"
+    },
+    {
+        "name": "8e",
+        "type": "directory",
+        "size": 124,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects"
+    },
+    {
+        "name": "8fac8535e77a689b28945847809ea81443b724",
+        "type": "file",
+        "size": 124,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects\\8e"
+    },
+    {
+        "name": "98",
+        "type": "directory",
+        "size": 661,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects"
+    },
+    {
+        "name": "98ed86e7062fd4bbacbd39cd7177babc5a6ce5",
+        "type": "file",
+        "size": 661,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects\\98"
+    },
+    {
+        "name": "99",
+        "type": "directory",
+        "size": 169,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects"
+    },
+    {
+        "name": "45cb233d23961650f3a6de27f681cb5082eb38",
+        "type": "file",
+        "size": 169,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects\\99"
+    },
+    {
+        "name": "9a",
+        "type": "directory",
+        "size": 651,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects"
+    },
+    {
+        "name": "e89b7381bddcd1f65de6f3165e42c9776971d0",
+        "type": "file",
+        "size": 651,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects\\9a"
+    },
+    {
+        "name": "a3",
+        "type": "directory",
+        "size": 111,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects"
+    },
+    {
+        "name": "0d6bb2cc1f38b9c90d0ad91aebc96022bad9ee",
+        "type": "file",
+        "size": 111,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects\\a3"
+    },
+    {
+        "name": "a8",
+        "type": "directory",
+        "size": 110,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects"
+    },
+    {
+        "name": "8d092fee1a8f702f1b416b96136c8acbfb564d",
+        "type": "file",
+        "size": 110,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects\\a8"
+    },
+    {
+        "name": "ab",
+        "type": "directory",
+        "size": 614,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects"
+    },
+    {
+        "name": "74e5cc4a54c09406bd8670231d0dc1fe743e62",
+        "type": "file",
+        "size": 614,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects\\ab"
+    },
+    {
+        "name": "ac",
+        "type": "directory",
+        "size": 639,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects"
+    },
+    {
+        "name": "6990ce57b841936458fbcb0b8d9fee1c10c19c",
+        "type": "file",
+        "size": 639,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects\\ac"
+    },
+    {
+        "name": "b1",
+        "type": "directory",
+        "size": 746,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects"
+    },
+    {
+        "name": "334271c4a7ed16f1ba1dd8ced04fbfbaa621c0",
+        "type": "file",
+        "size": 746,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects\\b1"
+    },
+    {
+        "name": "b5",
+        "type": "directory",
+        "size": 351,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects"
+    },
+    {
+        "name": "e4085d7b5430b9dc5fdbfbdedde3f5be582538",
+        "type": "file",
+        "size": 351,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects\\b5"
+    },
+    {
+        "name": "b8",
+        "type": "directory",
+        "size": 1838,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects"
+    },
+    {
+        "name": "89951dd6e693c30fa1a57b3481120f12698e69",
+        "type": "file",
+        "size": 1838,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects\\b8"
+    },
+    {
+        "name": "b9",
+        "type": "directory",
+        "size": 956,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects"
+    },
+    {
+        "name": "7243d923d75ae7c8c2723e7ffc8ab64c030fd1",
+        "type": "file",
+        "size": 198,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects\\b9"
+    },
+    {
+        "name": "c47a3525d05d53b3cee1650c116afd78e55de4",
+        "type": "file",
+        "size": 758,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects\\b9"
+    },
+    {
+        "name": "bd",
+        "type": "directory",
+        "size": 170,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects"
+    },
+    {
+        "name": "bd2f41747ebe49ab89d5f9d272f64aa17722cd",
+        "type": "file",
+        "size": 170,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects\\bd"
+    },
+    {
+        "name": "c0",
+        "type": "directory",
+        "size": 788,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects"
+    },
+    {
+        "name": "80a2dcec2c7182f70c364b70834a4f29e20421",
+        "type": "file",
+        "size": 122,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects\\c0"
+    },
+    {
+        "name": "e36ff11e21992156d99d190493ff615cb52ae8",
+        "type": "file",
+        "size": 666,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects\\c0"
+    },
+    {
+        "name": "c1",
+        "type": "directory",
+        "size": 224,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects"
+    },
+    {
+        "name": "57ce84d57e36af8cf09b5ce2bda6ca498b270f",
+        "type": "file",
+        "size": 224,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects\\c1"
+    },
+    {
+        "name": "c2",
+        "type": "directory",
+        "size": 639,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects"
+    },
+    {
+        "name": "c62b0bb602819e913b9c76c041bad8abdb70e6",
+        "type": "file",
+        "size": 639,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects\\c2"
+    },
+    {
+        "name": "c4",
+        "type": "directory",
+        "size": 465,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects"
+    },
+    {
+        "name": "4d89d857ae15d34fb163c638fb013c803629e8",
+        "type": "file",
+        "size": 465,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects\\c4"
+    },
+    {
+        "name": "cb",
+        "type": "directory",
+        "size": 394,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects"
+    },
+    {
+        "name": "241b590c200b6e6c14fbfeba6a76fecff232a3",
+        "type": "file",
+        "size": 192,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects\\cb"
+    },
+    {
+        "name": "9144c15061f3771c3f59aebd0a3597244f0ba6",
+        "type": "file",
+        "size": 202,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects\\cb"
+    },
+    {
+        "name": "d0",
+        "type": "directory",
+        "size": 417,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects"
+    },
+    {
+        "name": "94547d577c172d6098ef8318025e16a650bbd5",
+        "type": "file",
+        "size": 417,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects\\d0"
+    },
+    {
+        "name": "d1",
+        "type": "directory",
+        "size": 352,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects"
+    },
+    {
+        "name": "90b54794209b54ecf65730eb0ed610289f77cb",
+        "type": "file",
+        "size": 352,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects\\d1"
+    },
+    {
+        "name": "d4",
+        "type": "directory",
+        "size": 1148,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects"
+    },
+    {
+        "name": "03746774d7774c9ae76558447dcf4037a67719",
+        "type": "file",
+        "size": 1148,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects\\d4"
+    },
+    {
+        "name": "d5",
+        "type": "directory",
+        "size": 658,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects"
+    },
+    {
+        "name": "62f95262795b43cfb554537c88921ca34c5864",
+        "type": "file",
+        "size": 485,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects\\d5"
+    },
+    {
+        "name": "ebee0fda121876f1cdd082f72ee9cd238938f3",
+        "type": "file",
+        "size": 173,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects\\d5"
+    },
+    {
+        "name": "dc",
+        "type": "directory",
+        "size": 258,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects"
+    },
+    {
+        "name": "9ec0f1df5761ce7a64a6e6189689af94db79a1",
+        "type": "file",
+        "size": 258,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects\\dc"
+    },
+    {
+        "name": "de",
+        "type": "directory",
+        "size": 351,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects"
+    },
+    {
+        "name": "3525c2c65aa8a934e0271f7c87e65e848bf273",
+        "type": "file",
+        "size": 243,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects\\de"
+    },
+    {
+        "name": "827794d09e7a443f69395767ca4d289fa9ab13",
+        "type": "file",
+        "size": 108,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects\\de"
+    },
+    {
+        "name": "e4",
+        "type": "directory",
+        "size": 861,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects"
+    },
+    {
+        "name": "fa6529b1916d0955a4f79039b09d61fff144ad",
+        "type": "file",
+        "size": 861,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects\\e4"
+    },
+    {
+        "name": "e5",
+        "type": "directory",
+        "size": 227,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects"
+    },
+    {
+        "name": "39a8e791e9f935455b85db9637b60a67fa4538",
+        "type": "file",
+        "size": 227,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects\\e5"
+    },
+    {
+        "name": "e6",
+        "type": "directory",
+        "size": 15,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects"
+    },
+    {
+        "name": "9de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+        "type": "file",
+        "size": 15,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects\\e6"
+    },
+    {
+        "name": "ea",
+        "type": "directory",
+        "size": 665,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects"
+    },
+    {
+        "name": "717732841a9c6fed42066f358a168ba21f93ab",
+        "type": "file",
+        "size": 665,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects\\ea"
+    },
+    {
+        "name": "ed",
+        "type": "directory",
+        "size": 2240,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects"
+    },
+    {
+        "name": "1ce0651239a9fecf01d95cbc2022c19fbeeba4",
+        "type": "file",
+        "size": 1544,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects\\ed"
+    },
+    {
+        "name": "7b08a6e2827c03430be40d233892ed521225a6",
+        "type": "file",
+        "size": 696,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects\\ed"
+    },
+    {
+        "name": "f5",
+        "type": "directory",
+        "size": 909,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects"
+    },
+    {
+        "name": "ed23a1ab5ad279d0659e5cdd2a95c09dbb4482",
+        "type": "file",
+        "size": 909,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects\\f5"
+    },
+    {
+        "name": "f7",
+        "type": "directory",
+        "size": 302,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects"
+    },
+    {
+        "name": "5e914e62f504f4552013567dc69bc9b805a560",
+        "type": "file",
+        "size": 302,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects\\f7"
+    },
+    {
+        "name": "fd",
+        "type": "directory",
+        "size": 868,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects"
+    },
+    {
+        "name": "e7adbc1517cbdfb68af86b7d7301a61aedb4f8",
+        "type": "file",
+        "size": 868,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects\\fd"
+    },
+    {
+        "name": "ff",
+        "type": "directory",
+        "size": 1737,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects"
+    },
+    {
+        "name": "f6ce63cd5e987e4f5c892cb4d979e4da73ec76",
+        "type": "file",
+        "size": 1737,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects\\ff"
+    },
+    {
+        "name": "info",
+        "type": "directory",
+        "size": 0,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects"
+    },
+    {
+        "name": "pack",
+        "type": "directory",
+        "size": 3395,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects"
+    },
+    {
+        "name": "pack-cb0b2b0ae423654513b4f544bfabf20a8c50b5a3.idx",
+        "type": "file",
+        "size": 1184,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects\\pack"
+    },
+    {
+        "name": "pack-cb0b2b0ae423654513b4f544bfabf20a8c50b5a3.pack",
+        "type": "file",
+        "size": 2143,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects\\pack"
+    },
+    {
+        "name": "pack-cb0b2b0ae423654513b4f544bfabf20a8c50b5a3.rev",
+        "type": "file",
+        "size": 68,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\objects\\pack"
+    },
+    {
+        "name": "refs",
+        "type": "directory",
+        "size": 153,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git"
+    },
+    {
+        "name": "heads",
+        "type": "directory",
+        "size": 82,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\refs"
+    },
+    {
+        "name": "hw_8",
+        "type": "file",
+        "size": 41,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\refs\\heads"
+    },
+    {
+        "name": "main",
+        "type": "file",
+        "size": 41,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\refs\\heads"
+    },
+    {
+        "name": "remotes",
+        "type": "directory",
+        "size": 71,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\refs"
+    },
+    {
+        "name": "origin",
+        "type": "directory",
+        "size": 71,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\refs\\remotes"
+    },
+    {
+        "name": "HEAD",
+        "type": "file",
+        "size": 30,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\refs\\remotes\\origin"
+    },
+    {
+        "name": "main",
+        "type": "file",
+        "size": 41,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\refs\\remotes\\origin"
+    },
+    {
+        "name": "tags",
+        "type": "directory",
+        "size": 0,
+        "parent_directory": "D:/deep_python/auto_python_gb\\.git\\refs"
+    },
+    {
+        "name": "hw_1",
+        "type": "directory",
+        "size": 6309,
+        "parent_directory": "D:/deep_python/auto_python_gb"
+    },
+    {
+        "name": "task_1.py",
+        "type": "file",
+        "size": 3439,
+        "parent_directory": "D:/deep_python/auto_python_gb\\hw_1"
+    },
+    {
+        "name": "task_2.py",
+        "type": "file",
+        "size": 1177,
+        "parent_directory": "D:/deep_python/auto_python_gb\\hw_1"
+    },
+    {
+        "name": "task_3.py",
+        "type": "file",
+        "size": 1693,
+        "parent_directory": "D:/deep_python/auto_python_gb\\hw_1"
+    },
+    {
+        "name": "hw_2",
+        "type": "directory",
+        "size": 6335,
+        "parent_directory": "D:/deep_python/auto_python_gb"
+    },
+    {
+        "name": "hw2_task_1.py",
+        "type": "file",
+        "size": 1514,
+        "parent_directory": "D:/deep_python/auto_python_gb\\hw_2"
+    },
+    {
+        "name": "hw2_task_2.py",
+        "type": "file",
+        "size": 4821,
+        "parent_directory": "D:/deep_python/auto_python_gb\\hw_2"
+    },
+    {
+        "name": "hw_3",
+        "type": "directory",
+        "size": 7632,
+        "parent_directory": "D:/deep_python/auto_python_gb"
+    },
+    {
+        "name": "hw3_task_1.py",
+        "type": "file",
+        "size": 1881,
+        "parent_directory": "D:/deep_python/auto_python_gb\\hw_3"
+    },
+    {
+        "name": "hw3_task_2.py",
+        "type": "file",
+        "size": 1902,
+        "parent_directory": "D:/deep_python/auto_python_gb\\hw_3"
+    },
+    {
+        "name": "hw3_task_3.py",
+        "type": "file",
+        "size": 3112,
+        "parent_directory": "D:/deep_python/auto_python_gb\\hw_3"
+    },
+    {
+        "name": "hw3_task_4.py",
+        "type": "file",
+        "size": 737,
+        "parent_directory": "D:/deep_python/auto_python_gb\\hw_3"
+    },
+    {
+        "name": "hw_4",
+        "type": "directory",
+        "size": 8050,
+        "parent_directory": "D:/deep_python/auto_python_gb"
+    },
+    {
+        "name": "hw4_task_1.py",
+        "type": "file",
+        "size": 1377,
+        "parent_directory": "D:/deep_python/auto_python_gb\\hw_4"
+    },
+    {
+        "name": "hw4_task_2.py",
+        "type": "file",
+        "size": 1455,
+        "parent_directory": "D:/deep_python/auto_python_gb\\hw_4"
+    },
+    {
+        "name": "hw4_task_3.py",
+        "type": "file",
+        "size": 5218,
+        "parent_directory": "D:/deep_python/auto_python_gb\\hw_4"
+    },
+    {
+        "name": "hw_5",
+        "type": "directory",
+        "size": 3226,
+        "parent_directory": "D:/deep_python/auto_python_gb"
+    },
+    {
+        "name": "hw5_task_1.py",
+        "type": "file",
+        "size": 1312,
+        "parent_directory": "D:/deep_python/auto_python_gb\\hw_5"
+    },
+    {
+        "name": "hw5_task_2.py",
+        "type": "file",
+        "size": 1255,
+        "parent_directory": "D:/deep_python/auto_python_gb\\hw_5"
+    },
+    {
+        "name": "hw5_task_3.py",
+        "type": "file",
+        "size": 659,
+        "parent_directory": "D:/deep_python/auto_python_gb\\hw_5"
+    },
+    {
+        "name": "hw_6",
+        "type": "directory",
+        "size": 6316,
+        "parent_directory": "D:/deep_python/auto_python_gb"
+    },
+    {
+        "name": "hw6_task_1.py",
+        "type": "file",
+        "size": 1978,
+        "parent_directory": "D:/deep_python/auto_python_gb\\hw_6"
+    },
+    {
+        "name": "hw6_task_2.py",
+        "type": "file",
+        "size": 1824,
+        "parent_directory": "D:/deep_python/auto_python_gb\\hw_6"
+    },
+    {
+        "name": "hw6_task_3.py",
+        "type": "file",
+        "size": 2514,
+        "parent_directory": "D:/deep_python/auto_python_gb\\hw_6"
+    },
+    {
+        "name": "hw_7",
+        "type": "directory",
+        "size": 5926,
+        "parent_directory": "D:/deep_python/auto_python_gb"
+    },
+    {
+        "name": "hw7_task_1.py",
+        "type": "file",
+        "size": 4675,
+        "parent_directory": "D:/deep_python/auto_python_gb\\hw_7"
+    },
+    {
+        "name": "hw7_task_2.py",
+        "type": "file",
+        "size": 1249,
+        "parent_directory": "D:/deep_python/auto_python_gb\\hw_7"
+    },
+    {
+        "name": "test_folder",
+        "type": "directory",
+        "size": 2,
+        "parent_directory": "D:/deep_python/auto_python_gb\\hw_7"
+    },
+    {
+        "name": "app.exe",
+        "type": "file",
+        "size": 0,
+        "parent_directory": "D:/deep_python/auto_python_gb\\hw_7\\test_folder"
+    },
+    {
+        "name": "console.exe",
+        "type": "file",
+        "size": 0,
+        "parent_directory": "D:/deep_python/auto_python_gb\\hw_7\\test_folder"
+    },
+    {
+        "name": "document.txt",
+        "type": "file",
+        "size": 0,
+        "parent_directory": "D:/deep_python/auto_python_gb\\hw_7\\test_folder"
+    },
+    {
+        "name": "page.html",
+        "type": "file",
+        "size": 2,
+        "parent_directory": "D:/deep_python/auto_python_gb\\hw_7\\test_folder"
+    },
+    {
+        "name": "picture.png",
+        "type": "file",
+        "size": 0,
+        "parent_directory": "D:/deep_python/auto_python_gb\\hw_7\\test_folder"
+    },
+    {
+        "name": "start.doc",
+        "type": "file",
+        "size": 0,
+        "parent_directory": "D:/deep_python/auto_python_gb\\hw_7\\test_folder"
+    },
+    {
+        "name": "style.css",
+        "type": "file",
+        "size": 0,
+        "parent_directory": "D:/deep_python/auto_python_gb\\hw_7\\test_folder"
+    },
+    {
+        "name": "table.xls",
+        "type": "file",
+        "size": 0,
+        "parent_directory": "D:/deep_python/auto_python_gb\\hw_7\\test_folder"
+    },
+    {
+        "name": "test.ini",
+        "type": "file",
+        "size": 0,
+        "parent_directory": "D:/deep_python/auto_python_gb\\hw_7\\test_folder"
+    },
+    {
+        "name": "wish_list.txt",
+        "type": "file",
+        "size": 0,
+        "parent_directory": "D:/deep_python/auto_python_gb\\hw_7\\test_folder"
+    },
+    {
+        "name": "hw_8",
+        "type": "directory",
+        "size": 28208,
+        "parent_directory": "D:/deep_python/auto_python_gb"
+    },
+    {
+        "name": "hw8_task_1.py",
+        "type": "file",
+        "size": 5716,
+        "parent_directory": "D:/deep_python/auto_python_gb\\hw_8"
+    },
+    {
+        "name": "hw8_task_2.py",
+        "type": "file",
+        "size": 10,
+        "parent_directory": "D:/deep_python/auto_python_gb\\hw_8"
+    },
+    {
+        "name": "output.csv",
+        "type": "file",
+        "size": 33,
+        "parent_directory": "D:/deep_python/auto_python_gb\\hw_8"
+    },
+    {
+        "name": "output.json",
+        "type": "file",
+        "size": 4,
+        "parent_directory": "D:/deep_python/auto_python_gb\\hw_8"
+    },
+    {
+        "name": "output.pickle",
+        "type": "file",
+        "size": 22445,
+        "parent_directory": "D:/deep_python/auto_python_gb\\hw_8"
+    },
+    {
+        "name": "seminar_1",
+        "type": "directory",
+        "size": 4246,
+        "parent_directory": "D:/deep_python/auto_python_gb"
+    },
+    {
+        "name": "task_1.py",
+        "type": "file",
+        "size": 655,
+        "parent_directory": "D:/deep_python/auto_python_gb\\seminar_1"
+    },
+    {
+        "name": "task_2.py",
+        "type": "file",
+        "size": 513,
+        "parent_directory": "D:/deep_python/auto_python_gb\\seminar_1"
+    },
+    {
+        "name": "task_3.py",
+        "type": "file",
+        "size": 982,
+        "parent_directory": "D:/deep_python/auto_python_gb\\seminar_1"
+    },
+    {
+        "name": "task_4.py",
+        "type": "file",
+        "size": 1331,
+        "parent_directory": "D:/deep_python/auto_python_gb\\seminar_1"
+    },
+    {
+        "name": "task_5.py",
+        "type": "file",
+        "size": 490,
+        "parent_directory": "D:/deep_python/auto_python_gb\\seminar_1"
+    },
+    {
+        "name": "task_6.py",
+        "type": "file",
+        "size": 275,
+        "parent_directory": "D:/deep_python/auto_python_gb\\seminar_1"
+    },
+    {
+        "name": "seminar_2",
+        "type": "directory",
+        "size": 7264,
+        "parent_directory": "D:/deep_python/auto_python_gb"
+    },
+    {
+        "name": "sem2_task_1.py",
+        "type": "file",
+        "size": 398,
+        "parent_directory": "D:/deep_python/auto_python_gb\\seminar_2"
+    },
+    {
+        "name": "sem2_task_2.py",
+        "type": "file",
+        "size": 1171,
+        "parent_directory": "D:/deep_python/auto_python_gb\\seminar_2"
+    },
+    {
+        "name": "sem2_task_3.py",
+        "type": "file",
+        "size": 1275,
+        "parent_directory": "D:/deep_python/auto_python_gb\\seminar_2"
+    },
+    {
+        "name": "sem2_task_4.py",
+        "type": "file",
+        "size": 652,
+        "parent_directory": "D:/deep_python/auto_python_gb\\seminar_2"
+    },
+    {
+        "name": "sem2_task_5.py",
+        "type": "file",
+        "size": 1482,
+        "parent_directory": "D:/deep_python/auto_python_gb\\seminar_2"
+    },
+    {
+        "name": "sem2_task_6.py",
+        "type": "file",
+        "size": 2286,
+        "parent_directory": "D:/deep_python/auto_python_gb\\seminar_2"
+    },
+    {
+        "name": "seminar_3",
+        "type": "directory",
+        "size": 8322,
+        "parent_directory": "D:/deep_python/auto_python_gb"
+    },
+    {
+        "name": "sem3_task_1.py",
+        "type": "file",
+        "size": 712,
+        "parent_directory": "D:/deep_python/auto_python_gb\\seminar_3"
+    },
+    {
+        "name": "sem3_task_2.py",
+        "type": "file",
+        "size": 1142,
+        "parent_directory": "D:/deep_python/auto_python_gb\\seminar_3"
+    },
+    {
+        "name": "sem3_task_3.py",
+        "type": "file",
+        "size": 935,
+        "parent_directory": "D:/deep_python/auto_python_gb\\seminar_3"
+    },
+    {
+        "name": "sem3_task_4.py",
+        "type": "file",
+        "size": 610,
+        "parent_directory": "D:/deep_python/auto_python_gb\\seminar_3"
+    },
+    {
+        "name": "sem3_task_5.py",
+        "type": "file",
+        "size": 653,
+        "parent_directory": "D:/deep_python/auto_python_gb\\seminar_3"
+    },
+    {
+        "name": "sem3_task_6.py",
+        "type": "file",
+        "size": 770,
+        "parent_directory": "D:/deep_python/auto_python_gb\\seminar_3"
+    },
+    {
+        "name": "sem3_task_7.py",
+        "type": "file",
+        "size": 1195,
+        "parent_directory": "D:/deep_python/auto_python_gb\\seminar_3"
+    },
+    {
+        "name": "sem3_task_8.py",
+        "type": "file",
+        "size": 2305,
+        "parent_directory": "D:/deep_python/auto_python_gb\\seminar_3"
+    }
+]
